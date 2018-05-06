@@ -1,0 +1,4 @@
+.//div[@class="review-list  "]/div/div
+{'passage_id':'./@id', 'author':'./header/a[@class="name"]', 'star':'./header/span[1]/@title', 'issueTime':'./header/span[2]', 'title':'./div[@class="main-bd"]/h2/a', 'useful':'./div[@class="main-bd"]/div[@class="action"]/a[1]/span', 'unuseful':'./div[@class="main-bd"]/div[@class="action"]/a[2]/span','reply':'./div[@class="main-bd"]/div[@class="action"]/a[3]', 'href':'./div[@class="main-bd"]/h2/a/@href'}
+div.main-bd
+{'comment' : 'div#link-report > div'}
